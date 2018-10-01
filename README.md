@@ -1,3 +1,5 @@
+![Image of c programming with linux moocs](https://prod-discovery.edx-cdn.org/media/programs/banner_images/75f70b19-b26d-41bf-81a2-36fb8dded8f4-2ed9a42ac2c6.large.png)
+
 # What to do when you find a bug or have an idea/suggestion to improve something in our courses ? 
 
 ## Search first :-)
