@@ -1,4 +1,4 @@
-# c-programming-with-linux-MOOC-issues-tracker
+# What to do when you find a bug or have an idea to improve something ? 
 
 ## Search first :-)
 
@@ -10,8 +10,14 @@ Here are some expert tricks to search for issues: https://help.github.com/articl
 
 You can **comment existing issues** if you find some related to your idea/bug.
 
-## Create an issue thrid :-)
+## Getting all the info needed to create an issue third :-)
+
+### location
+
+
+## Create an issue fourth :-)
 
 If you didn't find any issue related to your bug/idea you can also create a new one.
 
 Here is how to create a new issue: https://help.github.com/articles/creating-an-issue/
+
